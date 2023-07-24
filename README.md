@@ -6,7 +6,7 @@ https://naman-jn72.github.io/nexter/          (Project)
 https://naman-jn72.github.io/Trillo/          (Project)
 
 Year - 2021
-alltours (Project)
+https://naman-jn72.github.io/alltour/alltours (Project)
 
 https://naman-jn72.github.io/Budgety/         (Project)
 
@@ -17,4 +17,4 @@ https://naman-jn72.github.io/TSI/             (Internship)
 
 https://www.sabadradesigns.com/               (Client)
 
-https://naman-jn72.github.io/Sabadra-Designs/ (IFC)
+https://naman-jn72.github.io/Sabadra-Designs/  (IFC)
